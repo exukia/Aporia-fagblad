@@ -24,9 +24,9 @@ params:
     defualtTheme: auto # Automatically shift theme depending on system
     buttons:
       -  name: udgivelser
-         url: "/aporia-fagblad/udgivelser/"
+         url: "https://exukia.github.io/Aporia-fagblad/udgivelser/"
       -  name: kontakt
-         url: "/aporia-fagblad/kontakt/"
+         url: "https://exukia.github.io/Aporia-fagblad/kontakt/"
 
   socialIcons: # optional
     - name: "Facebook"
