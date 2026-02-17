@@ -1,0 +1,59 @@
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  max-width: 65ch;
+  line-height: 1.7;
+}
+
+.block-quote {
+  margin: 1.2em 0;     /* same spacing as paragraphs */
+  padding-left: 3em;   /* indent */
+  font-style: italic;  /* Italic */ 
+}
+
+/* Bibliography Style */
+.bibliography {
+  font-size: 0.95rem;        /* slightly smaller than body */
+  line-height: 1.4;          /* compact but readable */
+  margin-top: 2em;           /* breathing room above section */
+}
+
+/* Remove heavy spacing */
+.bibliography ul {
+  list-style: none;          /* no bullets */
+  padding-left: 0;
+  margin: 0;
+}
+
+/* Hanging indent entries */
+.bibliography li {
+  margin: 0.6em 0;
+  padding-left: 1.8em;
+  text-indent: -1.8em;
+}
+
+/* Make post descriptions italic */
+.post-description {
+  font-style: italic;
+}
+
+/* Add a thin line above the footnotes list */
+.footnotes {
+    border-top: 1px solid var(--border-color); /* or pick a color you like */
+    padding-top: 0.5em;   /* small spacing above footnotes */
+    margin-top: 2em;      /* space between text and footnotes */
+}
+
+/* Remove underline/border from inline footnote markers */
+.footnote-ref {
+    border-bottom: none !important;
+    box-shadow: none !important;
+    text-decoration: none !important;
+}
+
+.footnotes hr {
+    display: none !important;
+}
+
+

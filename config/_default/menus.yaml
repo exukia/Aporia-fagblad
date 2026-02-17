@@ -1,0 +1,8 @@
+main:
+  - name: "udgivelser"
+    url: "/udgivelser"
+    weight: 1
+
+  - name: "kontakt"
+    url: "/kontant/"
+    weight: 2

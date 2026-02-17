@@ -1,0 +1,35 @@
+languageCode: 'da-DK'
+baseURL: 'https://exukia.github.io/aporia-fagblad/'
+title: 'Aporia Fagblad'
+theme: 'PaperMod'
+
+# For at kunne tilføje HTML billeder direkte, brugt på forsiden:)
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  ShowBreadCrumbs: true
+  assets.theme_color: "#ffe4e1"
+  disableAnchoredHeadings: false
+  profileMode:
+    enabled: true
+    title: "Aporia Fagblad" # optional default will be site title
+    subtitle: "Aporias officielle hjemmeside"
+    imageUrl: "images/aporia.jpg" # optional
+    imageTitle: "pis og papir" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    defualtTheme: auto # Automatically shift theme depending on system
+    buttons:
+      -  name: udgivelser
+         url: "/udgivelser/"
+      -  name: kontakt
+         url: "/kontakt/"
+
+  socialIcons: # optional
+    - name: "Facebook"
+      url: "https://www.facebook.com/people/Aporia-filosofisk-studenterfagblad-p%C3%A5-AU/61575727716359/"
+    - name: "<platform 2>"
+      url: "<link2>"
