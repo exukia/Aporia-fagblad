@@ -7,6 +7,9 @@ Weight:
 ---
 
 mail: aporia@gmail.com
+<br>
 Bestyrelsen:
-Chefredaktør
+<br>
+Chefredaktør:
+<br>
 Webmaster: aporia@jonathanfriis.dk
