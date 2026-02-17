@@ -2,7 +2,9 @@ languageCode: 'da-DK'
 baseURL: 'https://exukia.github.io/aporia-fagblad/'
 title: 'Aporia Fagblad'
 theme: 'PaperMod'
-paginate: 50
+
+pagination:
+  pagerSize: 20
 
 # For at kunne tilføje HTML billeder direkte, brugt på forsiden:)
 markup:
