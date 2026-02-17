@@ -10,12 +10,13 @@ markup:
       unsafe: true
 
 params:
+  ShowReadingTime: true
   ShowBreadCrumbs: true
   assets.theme_color: "#ffe4e1"
   disableAnchoredHeadings: false
   profileMode:
     enabled: true
-    title: "Aporia Fagblad" # optional default will be site title
+    title: "Aporia - Det studenterdrevne Fagblad for Filosofi på Aarhus universitet" # optional default will be site title
     subtitle: "Aporias officielle hjemmeside"
     imageUrl: "images/aporia.jpg" # optional
     imageTitle: "Aporia logo" # optional
