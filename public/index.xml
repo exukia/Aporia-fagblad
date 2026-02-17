@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Denne side indeholder alle Aporias udgivelser on Aporia Fagblad</title>
+    <title>Aporia Fagblad</title>
     <link>http://localhost:1313/aporia-fagblad/</link>
-    <description>Recent content in Denne side indeholder alle Aporias udgivelser on Aporia Fagblad</description>
+    <description>Recent content on Aporia Fagblad</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>da-DK</language>
     <atom:link href="http://localhost:1313/aporia-fagblad/index.xml" rel="self" type="application/rss+xml" />
@@ -87,6 +87,16 @@ Alt sammen.</description>
       <guid>http://localhost:1313/aporia-fagblad/udgivelser/f2025/beslutningen-uden-ende/</guid>
       <description>&lt;h2 id=&#34;introduktion&#34;&gt;Introduktion&lt;/h2&gt;
 &lt;p&gt;Stort set alt nogen nogensinde beskæftiger sig med er at tage beslutninger. Når nu dette er en så gennemgribende aktivitet i vores allesammens liv, kan det have en vis relevans at finde ud af hvordan man nu også tager gode beslutninger. Men hvor begynder man lige med denne proces? Et fristende svar kunne jo være ved den konkrete beslutning du står overfor. Dette er da også til dels rigtigt, men for beslutningen kan være forsvarlig, må du også have nogle normative principper at fortolke situationen igennem—ellers har du jo ingen grund til at gøre dette snarere end hint, og din beslutning bliver vilkårlig. Men nu løber vi snart ind i et problem! For ikke nok med, at der kan være usikkerhed om hvad du bør gøre i en situation, så kan der også være usikkerhed om hvilke principper der er de rigtige. For at tage en beslutning vedrørende disse principper må du da finde et nyt sæt principper for at beslutte mellem de første principper, og så videre til uendeligheden. Det synes da at vi kan komme i problemer her: Når først vi har begyndt en beslutning, er det ikke længere til at se enden på den.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt os</title>
+      <link>http://localhost:1313/aporia-fagblad/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aporia-fagblad/kontakt/</guid>
+      <description>&lt;p&gt;mail: &lt;a href=&#34;mailto:aporia@gmail.com&#34;&gt;aporia@gmail.com&lt;/a&gt;
+Bestyrelsen:
+Chefredaktør
+Webmaster: &lt;a href=&#34;mailto:aporia@jonathanfriis.dk&#34;&gt;aporia@jonathanfriis.dk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

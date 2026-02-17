@@ -22,16 +22,18 @@
   </url><url>
     <loc>http://localhost:1313/aporia-fagblad/udgivelser/f2025/beslutningen-uden-ende/</loc>
   </url><url>
-    <loc>http://localhost:1313/aporia-fagblad/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/aporia-fagblad/</loc>
   </url><url>
+    <loc>http://localhost:1313/aporia-fagblad/udgivelser/</loc>
+  </url><url>
+    <loc>http://localhost:1313/aporia-fagblad/categories/</loc>
+  </url><url>
     <loc>http://localhost:1313/aporia-fagblad/udgivelser/f2025/</loc>
+  </url><url>
+    <loc>http://localhost:1313/aporia-fagblad/kontakt/</loc>
   </url><url>
     <loc>http://localhost:1313/aporia-fagblad/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/aporia-fagblad/template/</loc>
-  </url><url>
-    <loc>http://localhost:1313/aporia-fagblad/udgivelser/</loc>
   </url>
 </urlset>
