@@ -2,10 +2,10 @@
 Draft: "false"
 Title: Kontakt os
 ---
-mail: aporia@gmail.com
+mail: aporia.fagblad@gmail.com
 
 Bestyrelsen:
 
 Chefredaktør:
 
-Webmaster: aporia.fagblad@jonathanfriis.dk
+Webmaster: aporia@jonathanfriis.dk
