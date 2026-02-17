@@ -1,8 +1,8 @@
 ---
-Draft: "true"
-Title: temp
-Author: temp
-Description: "false"
+Draft: "false"
+Title: "{{Title}}"
+Author:
+Description:
 Weight:
 ---
 

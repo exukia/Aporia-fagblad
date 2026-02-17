@@ -1,0 +1,18 @@
+---
+Draft: "false"
+Title: Portræt af Professor Thomas Schwarz Wentzer
+Author:
+Description:
+Weight: "1"
+---
+### ***Hvad var det ved filosofien der til at begynde gjorde, at du er gået efter en karriere indenfor filosofi?***
+Jeg havde filosofi som a-fag på et tysk gymnasium, i øvrigt sammen med kemi. Egentlig var jeg sikker på at jeg skulle læse jura, for jeg var imponeret af de amerikanske advokat-serier. Du ved, én mand alene overbeviser Gud og hver mand om den sagsøgtes uskyld i retfærdighedens navn. Efter næsten to års civiltjeneste (dengang påkrævet, hvis man nægtede at gå til den obligatoriske militærtjeneste), besluttede jeg mig i stedet for at læse filosofi. Dels fordi det gjorde min kæreste; dels fordi jeg ville lære, hvordan et retfærdigt samfund mon kunne se ud. Det var således den politiske teori og filosofi, der tiltrak mig. Jeg læste således filosofi som hovedfag, med statskundskab og nationaløkonomi som bifag. Ideen var at filosofien viser mig samfundets normative ideal, statskundskab dets institutionelle organisation, og økonomien de økonomiske magter bag det.
+
+### ***Set ud fra hele din akademiske karriere, hvilke filosofiske spørgsmål har du haft størst interesse i og hvorfor?***
+Jeg følger Kants katalog af filosofiens tre spørgsmål, der egentlig kan sammenfattes i ét: Hvad er mennesket? Dette spørgsmål peger mod opgaven af en filosofisk antropologi. Men især gennem Hegels kritik af Kant har lært, at også dette spørgsmål har en historisk kant. Der er ikke en ’essens’ eller ’natur’ af mennesket 14 eller menneskerne; også sandheden om mennesket har en historisk indeks. Hic Rhodus, hic saltus, siger Hegel i Retsfilosofien. Dvs. at også filosofien skal forholde sig til de aktuelle historiske forhold og kan hverken nostalgisk eller utopisk begræde virkelighedens aktuelle tilstand. Historicitet og det, at jeg/vi skal forholde mig til min/vores fælles fortid som fremtid, er et væsentligt, og ikke blot sekundær vilkår.
+
+### ***Hvad har den mest signifikante forandring været indenfor filosofien, du har været vidne til, siden du begyndte at arbejde indenfor området?***
+Vanskelig spørgsmål. Måske ’the rise and fall of analytical philosophy of language’? – Misforstå mig ikke; den såkaldte analytiske filosofi lever i bedste vilkår. Men i firserne og halvfemserne var sproget det primære forskningsområde, således at metafysik såvel som ontologi, etik og metaetik, epistemologi og åndsfilosofi (philosophy of mind) var forskellige retninger indenfor sprogfilosofien (især hos Wittgenstein-folkene og i Frege-Dummett-traditionen). Det har ændret sig ganske radikalt. – Eller måske opkomsten af ’cognitive science’ og ’neuroscience’? Begge er empiriske discipliner, der synes på forskellig vis, at ’philosophy of mind’ er et afdødt forskningsområde, hvis legitime efterfølger nu endelig kan besvære de spørgsmål, filosofien kun har fabuleret om, og placeres derfor udenfor filosofien. Jeg er ikke sikker på om denne udvikling gavner vores forståelse af ’mind’ eller ’mentalitet’ eller hvilket begreb (jeg foretrækker jo ’Geist’) man nu vil bruge. Men det er vel et aktuelt eksempel på separationsbevægelserne indenfor filosofien, der kendetegner vores fag siden 1800, hvor atter nye discipliner løsriver sig fra deres alma mater, filosofien.
+
+### ***Hvis du skulle vælge din største filosofiske inspiration eller helt, hvem ville det være og hvorfor?***
+Sokrates. Han kunne ikke lade være med at spørge, og nægtede at skrive noget fornuftigt.

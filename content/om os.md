@@ -1,0 +1,3 @@
+Aporia er et studenterdrevet fagblad på filosofistudiet i Aarhus. Der bliver udgivet et nyt blad i slutningen af hvert semester, hvor indholdet primært er filosofiske artikler skrevet af studerende på filosofistudiet.
+
+Aporia udgav deres første fagblad i forårssemesteret 2025 med temaet begyndelser. Ligesom den første udgivelse, har alle Aporias udgivelser et tema, lige fra begyndelser til grænser.

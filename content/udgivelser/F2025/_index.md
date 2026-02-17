@@ -10,5 +10,7 @@ Denne udgave er, som den første, også begyndelsen på et nyt fagblad, og forh�
 
 Vi er taknemmelige for alles bidrag – studerendes såvel som vores professorers og for dem som er mødt op til receptionen for at støtte det nye fagblad. Vi håber, at I (ligesom os) kan se potentialet i netop denne begyndelse og bruge dette fagblad til at udforske flere ideer, skabe mere diskussion på gangene eller blot indgyde nysgerrighed og styrke det filosofiske studiemiljø på vores højt beskattede afdeling.
 
-Fra alle os til alle jer
-	- Aporias redaktion
+<p class="block-quote">
+Fra alle os til alle jer <br>
+Aporias redaktion
+</p>
