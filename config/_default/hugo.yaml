@@ -37,3 +37,8 @@ params:
       url: "https://www.facebook.com/people/Aporia-filosofisk-studenterfagblad-p%C3%A5-AU/61575727716359/"
     - name: "<platform 2>"
       url: "<link2>"
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
