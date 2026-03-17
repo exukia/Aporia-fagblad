@@ -1,7 +1,8 @@
 ---
 Draft: "false"
-Title: om aporia
+Title: om Aporia
 ShowReadingTime: false
+ShowBreadCrumbs: false
 ---
 Aporia er et studenterdrevet fagblad på filosofistudiet i Aarhus. Der bliver udgivet et nyt blad i slutningen af hvert semester, hvor indholdet primært er filosofiske artikler skrevet af studerende på filosofistudiet.
 

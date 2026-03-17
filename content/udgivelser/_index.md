@@ -1,4 +1,5 @@
 ---
 title: "Aporias udgivelser"
-description: "Her findes alle Aporias udgivelser, opdelt i år. Hvis man har lyst til at læse noget bestemt, kan man kigge på tags oppe i toppen"
+ShowBreadCrumbs: False
 ---
+Her findes alle Aporias udgivelser, opdelt i år. Hvis man har lyst til at læse noget bestemt, kan man kigge på tags oppe i toppen

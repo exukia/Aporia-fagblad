@@ -18,7 +18,9 @@ params:
   assets.theme_color: "#ffe4e1"
   disableAnchoredHeadings: false
   disableHugoGenerator: true
-  disableThemeCredit: true
+  fonts:
+    body: "Crimson Pro"
+    heading: "Inter"
   profileMode:
     enabled: true
     title: "Aporia - Det studenterdrevne Fagblad for Filosofi på Aarhus universitet" # optional default will be site title
