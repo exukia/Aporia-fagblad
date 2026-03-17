@@ -6,3 +6,7 @@ main:
   - name: "kontakt"
     url: "/kontakt/"
     weight: 2
+
+  - name: "om os"
+    url: "/om-Aporia/"
+    weight: 3

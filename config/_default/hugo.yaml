@@ -17,6 +17,8 @@ params:
   ShowBreadCrumbs: true
   assets.theme_color: "#ffe4e1"
   disableAnchoredHeadings: false
+  disableHugoGenerator: true
+  disableThemeCredit: true
   profileMode:
     enabled: true
     title: "Aporia - Det studenterdrevne Fagblad for Filosofi på Aarhus universitet" # optional default will be site title
@@ -37,7 +39,7 @@ params:
       url: "https://www.facebook.com/people/Aporia-filosofisk-studenterfagblad-p%C3%A5-AU/61575727716359/"
     - name: "<platform 2>"
       url: "<link2>"
-  assets:
+  favicon:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
