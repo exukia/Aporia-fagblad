@@ -37,8 +37,6 @@ params:
   socialIcons: # optional
     - name: "Facebook"
       url: "https://www.facebook.com/people/Aporia-filosofisk-studenterfagblad-p%C3%A5-AU/61575727716359/"
-    - name: "<platform 2>"
-      url: "<link2>"
   favicon:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"

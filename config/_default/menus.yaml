@@ -1,12 +1,12 @@
 main:
   - name: "udgivelser"
     url: "/udgivelser/"
-    weight: 1
+    weight: 10
 
   - name: "kontakt"
     url: "/kontakt/"
-    weight: 2
+    weight: 20
 
   - name: "om os"
     url: "/om-Aporia/"
-    weight: 3
+    weight: 30
