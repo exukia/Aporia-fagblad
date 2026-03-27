@@ -5,6 +5,7 @@ Author: Victor Damsgaard Pas
 Description: A Comment on the Spinozian “Genesis” of a Philosophical I
 Weight: "10"
 ---
+
 <p class="block-quote">
 <strong> The mind may perceive the seed, so to speak, of a relation which would have a harmony beyond the mind’s power to comprehend or experience once the relation is fully developed. When this happens, we call the impression sublime; it is the most wonderful bestowed on the mind of man. </strong> 
 <br> – Goethe, A Study Based on Spinoza (c. 1785)
@@ -16,12 +17,16 @@ Weight: "10"
 </p>
 
 ## Introduction
+
 <strong>
 Much valuable ink and typefaces have been wasted on answering the question as to what makes the philosopher a philosopher.</strong>  Alain Badiou, in his preface to ‘After Finitude’ by Quentin Meillassoux, writes:
+
+
 <p class="block-quote">
 It may be, as Bergson maintained, a philosopher only ever develops one idea. In any case, <strong>there is no doubt that the philosopher is born of a single question, the question which arises at the intersection of thought and life at a given moment in the philosopher’s youth; the question which one must at all costs find a way to answer. </strong> <br>
 - Badiou, 2008: vi: emphasis added.
 </p>
+
 The question of the genesis of the philosopher, for Badiou, is thus localizable in the point of contact between lived experience and the intellectual enterprise of the philosopher-to-be. This aristocratic view of the genesis of the philosopher possesses a speculative truth worth pointing out (despite said aristocratism): the genesis of the philosopher always occurs with reference to a set of existential conditions, whether they be a set of normative regulations in a societal constellation, political rupture, or with reference to the historicity of the philosopher-to-be, and so on and so forth.
 
 In this short text, my task will be to provide the reader with an entry-point into the Spinozian view of such a genesis, the transition from a *philosopher-to-be to a philosopher-become*, if you will. To accomplish this, I propose to walk you through the prologue to Spinoza’s 'Treatise on the Emendation of the Intellect' (from now on simply referred to as ‘TdIEi').[^1] Why this text? I hope that this question becomes clearer as my fragmentary exposition unfolds itself.
@@ -48,6 +53,7 @@ A reaction to ideological standards implies (in a rather obvious way), that th
 <p class="block-quote">
 Nor do honor and wealth have, as sensual pleasure does, repentance as a natural consequence. The more each of these is possessed, the more joy is increased, and hence the more we are spurred on to increase them. But if our hopes should chance to be frustrated, we experience the greatest sadness. And finally, honor has this great disadvantage: to pursue it, we must direct our lives according to other men’s powers of understanding – fleeing what they commonly flee and seek what they commonly seek (Spinoza, 1985: 8 [¶4]).
 </p>
+
 This passage from the prologue *seems* to confirm Negri’s suspicion that Spinoza has to be understood in the context of the Dutch Golden Age. With regards to our current topic of discussion, I would like to point out the fact that what Spinoza is gesturing towards in this quotation is the tragic existential situation of the incessant striving for perishable, material, goods: the precarity of incessant striving towards ever greater wealth entails the real potential of being in a repetitive state of sorrow. Spinoza, himself the son of a merchant émigré (Nadler, 2018: 32-48), was more than likely all too familiar with this potential situation: Spinoza, by taking part in his father’s business (ibid.: 93), was more than likely to have seen how the incessant striving for material goods affects the striving subject. The choice to become a philosopher was thus, in the case of Spinoza, a radical break with the familiar. No longer wanting to be a commodity fetishist, the task for Spinoza thus became to find a new source of joy. This became philosophy.
 
 ## §2. What Type of Experience?
@@ -69,6 +75,7 @@ The narrative of the prologue thus expresses a tension: as a narrative of the ge
 
 ## §3 Why?
 We have now reached the heart of the matter. Before we answer this question, we need to make something clear. ***None of what the prologue narrates concerning the genesis of the philosopher is to be read as an autobiographical account of Spinoza’s own life as such.*** What does this mean for the hitherto produced interpretation? It means that, despite the fact that one can legitimately infer that the narrative of the I in the TdIE correlates to events in Spinoza’s own life, it is non-reducible to Spinoza as a historical individual. How are we to solve this hermeneutical problem? Up until now, we have maintained 3 things: 
+
 1. The text draws on certain tropes from at that time well-known literary genres, such as the conversion narrative. 
 2. The text describes an I having to reevaluate its acceptance of the normative conditions (and their antecedent ideological conditions) for its existence in a community it happens to find itself within and as a part of. 
 3. The text ought not to be read as primarily a biographical account of Spinoza’s own life.

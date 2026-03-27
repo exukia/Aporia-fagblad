@@ -1,0 +1,15 @@
+.footnotes {
+    border-top: 1px solid #ccc;  /* replace var(--border-color) for safety */
+    padding-top: 0.5em;  
+    margin-top: 2em;      
+}
+
+.footnote-ref {
+    border-bottom: none !important;
+    box-shadow: none !important;
+    text-decoration: none !important;
+}
+
+.footnotes hr {
+    display: none !important;
+}

@@ -1,6 +1,6 @@
 ---
 Draft: "false"
-Title: Begyndende fænomenologiskeundersøgelser af sproget i fremmedsproget og i modersmålet
+Title: Begyndende fænomenologiske undersøgelser af sproget i fremmedsproget og i modersmålet
 Author: Peter Gjesse
 Description:
 Weight: "11"

@@ -1,0 +1,54 @@
+/* TITLE (h1) */
+.post-single .post-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+
+/* SUBTITLE / DESCRIPTION */
+.post-single .post-description {
+  font-family: 'Noto Serif Display', serif;
+  font-weight: 400;
+}
+
+/* Move article title lower */
+.post-single .post-header .post-title {
+  margin-top: 3rem;   /* adjust value as needed */
+}
+
+/* SECTION HEADINGS */
+.post-single .post-content h2,
+.post-single .post-content h3,
+.post-single .post-content h4,
+.post-single .post-content h5 {
+  font-family: 'Noto Serif Display', serif;
+  font-weight: 600;
+  margin-top: 2em;    /* space above heading */
+  margin-bottom: 0.4em; /* space below heading */
+}
+
+/* POST BODY */
+.post-single .post-content {
+  font-family: 'Noto Serif', serif;
+  font-weight: 400;
+}
+
+.post-single .post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  max-width: 65ch;
+  line-height: 1.7;
+  margin: 1em 0;
+}
+
+/* Make post descriptions italic */
+.post-single .post-description {
+  font-style: italic;
+}
+
+/* Block quotes */
+.post-single .block-quote {
+  margin: 1.2em 0;     /* same spacing as paragraphs */
+  padding-left: 3em;   /* indent */
+  font-style: italic;  /* Italic */ 
+}

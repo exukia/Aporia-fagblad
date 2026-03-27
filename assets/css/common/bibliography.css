@@ -1,0 +1,20 @@
+/* Bibliography Style */
+.bibliography {
+  font-size: 0.95rem;        /* slightly smaller than body */
+  line-height: 1.4;          /* compact but readable */
+  margin-top: 2em;           /* breathing room above section */
+}
+
+/* Remove heavy spacing */
+.bibliography ul {
+  list-style: none;          /* no bullets */
+  padding-left: 0;
+  margin: 0;
+}
+
+/* Hanging indent entries */
+.bibliography li {
+  margin: 0.6em 0;
+  padding-left: 1.8em;
+  text-indent: -1.8em;
+}

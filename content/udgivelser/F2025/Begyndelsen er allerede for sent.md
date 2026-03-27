@@ -1,6 +1,6 @@
 ---
 Draft: "false"
-Title: begyndelsen er allerede for sent
+Title: Begyndelsen er allerede for sent
 Author: Luka Rudez
 Description: |-
   Begyndelsen. Gang på gang befinder vi os ’her’, og vi spørger: Hvor kom vi fra? 

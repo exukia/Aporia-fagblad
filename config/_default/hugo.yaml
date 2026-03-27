@@ -14,13 +14,13 @@ markup:
 
 params:
   ShowReadingTime: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   assets.theme_color: "#ffe4e1"
   disableAnchoredHeadings: false
   disableHugoGenerator: true
   fonts:
     body: "Crimson Pro"
-    heading: "Inter"
+    heading: "Playfair Display"
   profileMode:
     enabled: true
     title: "Aporia - Det studenterdrevne Fagblad for Filosofi på Aarhus universitet" # optional default will be site title
@@ -39,8 +39,14 @@ params:
   socialIcons: # optional
     - name: "Facebook"
       url: "https://www.facebook.com/people/Aporia-filosofisk-studenterfagblad-p%C3%A5-AU/61575727716359/"
+
   favicon:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
+
+  customCSS:
+    - "css/common/custom.css"
+    - "css/common/footnotes.css"
+    - "css/common/bibliography.css"
