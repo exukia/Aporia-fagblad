@@ -3,7 +3,7 @@
 .list .post-title,
 .list .entry-title,
 .list .page-title,
-.list .poset-header .post-title {
+.list .post-header .post-title {
   font-family: 'Playfair Display', serif;
   font-weight: 600;
 }
@@ -20,7 +20,6 @@
   font-family: 'Noto Serif Display', serif;
   font-weight: 400;
   font-style: italic;
-
 }
 
 /* Move article title lower */
@@ -39,11 +38,11 @@
 .post-single .post-content h2,
 .post-single .post-content h3,
 .post-single .post-content h4,
-.post-single .post-content h5 
+.post-single .post-content h5,
 .list .post-content h2,
 .list .post-content h3,
 .list .post-content h4,
-.list .post-content h5, {
+.list .post-content h5 {
   font-family: 'Noto Serif Display', serif;
   font-weight: 600;
   margin-top: 1em;    /* space above heading */
@@ -57,12 +56,11 @@
   font-weight: 400;
 }
 
-.post-single .post-content p 
+.post-single .post-content p,
 .list .post-content {
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
-  max-width: 65ch;
   line-height: 1.7;
   margin: 1em 0;
 }
@@ -98,4 +96,11 @@
   font-weight: 400;                  /* normal weight */
   line-height: 1.7;                  /* spacing between lines */
   margin: 1em 0;                      /* spacing between paragraphs */
+}
+
+/* content margins */
+.post-content,
+.entry-content {
+  margin-left: auto;
+  margin-right: auto;
 }
