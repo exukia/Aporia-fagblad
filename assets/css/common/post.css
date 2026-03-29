@@ -1,0 +1,93 @@
+/* TITLES (H1, list titles, post titles) */
+.post-single .post-title,
+.list .post-title,
+.list .entry-title,
+.list .entry-header h2,
+.list .entry-header h2 a,
+.list .page-header h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+
+/* SUBTITLE / DESCRIPTION */
+.post-single .post-description,
+.list .post-description {
+  font-family: 'Noto Serif Display', serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* TITLE SPACING */
+.post-single .post-header .post-title,
+.list .post-header .post-title {
+  margin-top: 3rem; /* adjust as needed */
+}
+
+/* HEADINGS (H1–H5 inside content) */
+/* H1 spacing */
+.post-single .post-content h1,
+.list .post-content h1 {
+  margin: 20px auto;
+}
+
+/* Section headings */
+.post-single .post-content h2,
+.post-single .post-content h3,
+.post-single .post-content h4,
+.post-single .post-content h5,
+.list .post-content h2,
+.list .post-content h3,
+.list .post-content h4,
+.list .post-content h5 {
+  font-family: 'Noto Serif Display', serif;
+  font-weight: 600;
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+/* BODY TEXT (articles + lists) */
+.post-single .post-content,
+.list .post-content,
+.entry-content {
+  font-family: 'Noto Serif', serif;
+  font-weight: 400;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Paragraphs */
+.post-single .post-content p,
+.list .post-content,
+.entry-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  line-height: 1.7;
+  margin: 1em 0;
+}
+
+/* Empty paragraphs (preserve spacing) */
+.post-content p:empty,
+.list .post-content p:empty,
+.entry-content p:empty {
+  margin-top: 1em 0;
+  margin-bottom: 1em;
+  line-height: 1.7;
+}
+
+/* LIST ITEM CONTENT */
+.list .entry-content,
+.list .entry-content p {
+  font-family: 'Noto Serif', serif;
+  font-weight: 400;
+  line-height: 1.7;
+  margin: 1em 0;
+}
+
+/* BLOCK QUOTES */
+.post-single .block-quote,
+.list .block-quote {
+  margin: 1.2em 0;
+  padding-left: 3em;
+  font-style: italic;
+}
