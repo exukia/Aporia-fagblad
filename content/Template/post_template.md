@@ -1,12 +1,17 @@
 ---
+title: "Forår 2025: Begyndelser"
 Draft: "false"
-Title: "{{Title}}"
 Author:
-Description:
 Weight:
+Description:
 ---
-
 ## Bibliografi
+
 <div class="bibliography">
 
+
 </div>
+
+
+
+

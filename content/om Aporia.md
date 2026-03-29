@@ -1,6 +1,6 @@
 ---
 Draft: "false"
-Title: om Aporia
+Title: Om Aporia
 ShowReadingTime: false
 ShowBreadCrumbs: false
 ---

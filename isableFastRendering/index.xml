@@ -181,10 +181,24 @@ Alt sammen.</description>
       <description>On the mourning and spectral dilemmas of RFK and MLK</description>
     </item>
     <item>
-      <title>{{Title}}</title>
-      <link>http://localhost:1313/aporia-fagblad/template/template/</link>
+      <title></title>
+      <link>http://localhost:1313/aporia-fagblad/template/index_template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aporia-fagblad/template/template/</guid>
+      <guid>http://localhost:1313/aporia-fagblad/template/index_template/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dokumentation</title>
+      <link>http://localhost:1313/aporia-fagblad/dokumentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aporia-fagblad/dokumentation/</guid>
+      <description>En overfladisk guide til kommende webmastere</description>
+    </item>
+    <item>
+      <title>Forår 2025: Begyndelser</title>
+      <link>http://localhost:1313/aporia-fagblad/template/post_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aporia-fagblad/template/post_template/</guid>
       <description>&lt;h2 id=&#34;bibliografi&#34;&gt;Bibliografi&lt;/h2&gt;
 &lt;div class=&#34;bibliography&#34;&gt;
 &lt;/div&gt;</description>
@@ -200,7 +214,7 @@ Alt sammen.</description>
 &lt;p&gt;Webmaster: &lt;a href=&#34;mailto:aporia@jonathanfriis.dk&#34;&gt;aporia@jonathanfriis.dk&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>om Aporia</title>
+      <title>Om Aporia</title>
       <link>http://localhost:1313/aporia-fagblad/om-aporia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/aporia-fagblad/om-aporia/</guid>
